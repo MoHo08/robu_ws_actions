@@ -1,0 +1,4 @@
+source;share/robu_interfaces/local_setup.bash
+source;share/robu_interfaces/local_setup.dsv
+source;share/robu_interfaces/local_setup.sh
+source;share/robu_interfaces/local_setup.zsh
